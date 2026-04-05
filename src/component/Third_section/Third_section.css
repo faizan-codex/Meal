@@ -1,0 +1,49 @@
+.third_section{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    gap: 50px;
+    background-color: #ffece1;
+}
+.left img{
+    max-width: 494px;
+    height: auto;
+}
+.right {
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    color: #649483;
+}
+.content P:first-child{
+     font-weight: 600;
+}
+.content h1{
+    font-size: 111px;
+    line-height: 110px;
+    color: #dd7017;
+}
+.meals_cart{
+    display: flex;
+    gap: 30px;
+}
+.meals_cart img{
+    max-width: 100%;
+}
+.foodcart button{
+  color: #ffece1;
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+  background-color: #6e9a89;
+  font-size: 17px;
+  font-weight: 600;
+  margin-top: -10px;
+}
+                                 
+

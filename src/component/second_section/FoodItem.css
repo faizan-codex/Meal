@@ -1,0 +1,45 @@
+.FoodItem{
+    background-color: #649483;
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    gap: 72px;
+    flex-direction:column;
+
+}
+.foodItem_detail{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    text-align: center;
+}
+.ourFavrite h1{
+    color: #ffece1;
+    font-size: 111px;
+}
+.ourFavrite p{
+    font-size: 17px;
+    color: #ffece1;
+    font-weight: 600;
+}
+.foodItem_detail img{
+    max-width: 250px;
+}
+.food{
+    display: flex;
+    gap: 25px;
+    color: #649483;
+    flex-direction: column;
+    align-items: center;
+     border-radius: 15px;
+    background-color: #ffece1;
+    padding: 50px;
+}
+.food p:first-child {
+  width: 50%;
+  font-weight: 700;
+}
+.food p:nth-of-type(2) {
+  font-family: 'ClearSans';
+}

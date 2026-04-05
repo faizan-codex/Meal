@@ -1,0 +1,16 @@
+.testimonial{
+    display: flex;
+    flex-direction: column;
+    background-color: #FFECE1;
+}
+.review{
+    width: 100%;
+    display: flex;
+}
+.people{
+    width: 30%;
+}
+.heading h1{
+    font-size: 111px;
+    color: #DD7017;
+}
