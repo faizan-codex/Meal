@@ -35,13 +35,13 @@ nav ul li {
   border: none;
   border-radius: 12px;
 }
-@media screen and ((max-width : 1920px) and (min-width:769px)) {
+@media((max-width : 1920px) and (min-width:769px)) {
 .icon {
     display: none;
   }
 
 }
 
-@media screen and ((max-width : 1920px) and (min-width:769px)) {
+@media ((max-width : 1920px) and (min-width:769px)) {
     
 }

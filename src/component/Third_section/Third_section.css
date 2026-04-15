@@ -46,4 +46,16 @@
   margin-top: -10px;
 }
                                  
+ @media (max-width: 991px){
+       .content h1 {
+    font-size: 79px;
+    line-height: 75px;
+    color: #dd7017;
+}
 
+
+ }
+
+ 
+    
+ 

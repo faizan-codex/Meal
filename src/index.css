@@ -12,6 +12,8 @@
 .container {
     max-width: 1180px;
     margin: auto;
+    padding:  20px;
+    box-sizing: border-box;
 }
 body{
     font-family: 'ClearSans',sans-serif;
